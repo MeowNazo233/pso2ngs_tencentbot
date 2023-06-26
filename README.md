@@ -1,0 +1,1 @@
+# pso2ngs_tencentbot
